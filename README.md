@@ -1,1 +1,1 @@
-# Smart-Attendence-System
+# Smart-Attendance-System
